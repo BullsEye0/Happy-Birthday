@@ -1,5 +1,8 @@
 # Happy-Birthday
- "Happy Birthday Python" script. It seemed funny to share with you :-D
+If you're bored and it's a friend's birthday, just make a nice "Happy Birthday Python" script. 
+ 
+   Happy Birthday Python script. It seemed funny to share with you :-D
+   
 
 If you want to use it install it in the following way:
 
