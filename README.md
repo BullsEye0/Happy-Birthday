@@ -4,7 +4,9 @@
 If you want to use it install it in the following way:
 
 git clone https://github.com/BullsEye0/Happy-Birthday
+
 cd Happy-Birthday
+
 python happy_birthday.py
 
 Have fun..! :-D
