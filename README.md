@@ -3,7 +3,7 @@
 
 If you want to use it install it in the following way:
 
-git clone https://github.com/BullsEye0/Happy-Birthday
+git clone https://github.com/BullsEye0/Happy-Birthday.git
 
 cd Happy-Birthday
 
